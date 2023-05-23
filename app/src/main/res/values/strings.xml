@@ -2,4 +2,8 @@
     <string name="app_name">ParcialMoviles</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_botton_text">Save</string>
+    <string name="direcctor_hint">Direcctor</string>
+    <string name="new_movie_form_title">New Movie Form</string>
+    <string name="title_hint">Title</string>
 </resources>

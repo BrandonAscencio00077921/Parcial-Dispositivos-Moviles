@@ -31,7 +31,7 @@ class MovieViewModel(private val repository: MovieRepository) : ViewModel() {
         clearData()
     }
 
-    private fun clearData() {
+    fun clearData() {
         title.value = ""
         director.value = ""
     }
